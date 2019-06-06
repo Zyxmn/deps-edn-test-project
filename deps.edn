@@ -1,0 +1,2 @@
+{:deps
+  {github-Zyxmn/time-lib {:git/url "https://github.com/Zyxmn/time-lib.git" :sha "e7e5f77c224e70186a79aca7c765d4a994e78cdf"}}}
